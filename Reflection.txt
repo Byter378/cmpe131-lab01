@@ -1,0 +1,5 @@
+# CMPE131 Lab01 >> Reflection.txt
+Based on this lab, why is using branches a powerful and safe way for a team of
+software engineers to collaborate on a single project? What problems might it
+prevent? 
+echo # CMPE131 Lab01
