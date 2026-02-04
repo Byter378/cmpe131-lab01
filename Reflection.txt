@@ -3,4 +3,4 @@ Based on this lab, why is using branches a powerful and safe way for a team of
 software engineers to collaborate on a single project? What problems might it
 prevent? 
 echo # CMPE131 Lab01
-Answer --> Branches are powerful and safe for a team to collaborate on a single project is that it allows for individuals to do their work on their own branch without making changes to whatever may be on the main branch. It prevents unwanted changes and allows for full history to be seen in case of errors wo help narrow down where it may have come from.
+Answer --> Branches are powerful and safe for a team to collaborate on a single project is that it allows for individuals to do their work on their own branch without making changes to whatever may be on the main branch, it also allows for easy debugging as changes can be tracked down easily. It prevents unwanted changes and allows for full history to be seen in case of errors to help narrow down where it may have come from and correct them if necessary.
